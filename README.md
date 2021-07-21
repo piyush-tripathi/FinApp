@@ -12,3 +12,7 @@ A financial dashboard created using ta, streamlit, and Yahoo finance libraries o
 # Run the file FinApp.py by going to the location of the file in terminal and running the following command
 
 streamlit run FinApp.py
+
+# For using the app online, follow here :
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/snorkelingbear/finapp/main/FinApp.py)
